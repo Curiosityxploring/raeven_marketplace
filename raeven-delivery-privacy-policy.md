@@ -1,3 +1,5 @@
+**RAEVEN DELIVERY APP PRIVACY POLICY**
+
 **INTRODUCTION**
 
 The Raeven Deliveryman App ("we" or "us" or "our") Privacy Policy provides information on how we collect, use, disclose, and safeguard information that you voluntarily provide to us when you access and use our delivery mobile app, including our websites (collectively, the "App"). By using our App, you agree to the terms of this Privacy Policy. We encourage you to read and understand this privacy policy and accept it before we can serve you better.
