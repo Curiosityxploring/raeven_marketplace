@@ -1,20 +1,20 @@
-**RAEVEN DELIVERY APP PRIVACY POLICY**
+**RAEVEN MARKETPLACE AND RAEVEN DELIVERY APP PRIVACY POLICY**
 
 **INTRODUCTION**
 
-The Raeven Deliveryman App ("we" or "us" or "our") Privacy Policy provides information on how we collect, use, disclose, and safeguard information that you voluntarily provide to us when you access and use our delivery mobile app, including our websites (collectively, the "App"). By using our App, you agree to the terms of this Privacy Policy. We encourage you to read and understand this privacy policy and accept it before we can serve you better.
+The Raeven Marketplace and Raeven Deliveryman Apps ("we" or "us" or "our") Privacy Policy provides information on how we collect, use, disclose, and safeguard information that you voluntarily provide to us when you access and use our marketplace and delivery mobile apps, including our websites (collectively, the "Apps"). By using our Apps, you agree to the terms of this Privacy Policy. We encourage you to read and understand this privacy policy and accept it before we can serve you better.
 
 **INFORMATION COLLECTION**
 
 1. **Personal Information**
-    1.1. We collect and record the personal information you provide to us, such as name, contact details, email, and payment information when registering on our app and subsequently.
+    1.1. We collect and record the personal information you provide to us, such as name, contact details, email, and payment information when registering on our apps and subsequently.
     
     1.2. We collect and record the following types of information:
         1.2.1. Contact information (e.g., name, email address, phone number)
         1.2.2. Billing and payment information (e.g., credit/debit card details, bank account information)
-        1.2.3. Delivery and location information (e.g., current location, delivery addresses)
+        1.2.3. Shipping and delivery information (e.g., delivery address, current location)
         1.2.4. Account login credentials
-        1.2.5. Transaction history and delivery details
+        1.2.5. Transaction history and purchase details
         1.2.6. Device information (e.g., IP address, browser type, operating system)
         1.2.7. Usage data (e.g., pages visited, search queries, click data)
 
@@ -32,14 +32,15 @@ The Raeven Deliveryman App ("we" or "us" or "our") Privacy Policy provides infor
 1. **Purpose of Use**
     1.1. We use your personal information for the following purposes:
     
-        1.1.1. To maintain the security and integrity of the App;
-        1.1.2. To facilitate transactions on the App and discharge our services on your behalf;
+        1.1.1. To maintain the security and integrity of the Apps;
+        1.1.2. To facilitate transactions on the Apps and discharge our services on your behalf;
         1.1.3. To facilitate seamless communication with our partners and third-party service providers, such as payment processors and vendors, on your behalf;
-        1.1.4. To personalize your experience on our App and provide you with relevant content and app improvement;
-        1.1.5. In compliance with relevant laws enforced in Nigeria;
-        1.1.6. To understand and serve you better;
-        1.1.7. To inform you of details of our services and the benefits we offer periodically;
-        1.1.8. For any other purpose you may agree to or as legally permitted in the best interest of our users.
+        1.1.4. To personalize your experience on our Apps and provide you with relevant content and app improvement;
+        1.1.5. To provide delivery services and optimize delivery routes;
+        1.1.6. In compliance with relevant laws enforced in Nigeria;
+        1.1.7. To understand and serve you better;
+        1.1.8. To inform you of details of our services and the benefits we offer periodically;
+        1.1.9. For any other purpose you may agree to or as legally permitted in the best interest of our users.
 
 **INFORMATION SHARING**
 
@@ -59,7 +60,7 @@ The Raeven Deliveryman App ("we" or "us" or "our") Privacy Policy provides infor
 1. **Security Measures**
     1.1. We implement industry-standard encryption security measures to protect user information from unauthorized access, disclosure, alteration, or destruction.
     
-    1.2. We keep your data for as long as you remain a user on our App to provide safe and effective services. We will only delete your data upon request or when you stop using our services.
+    1.2. We keep your data for as long as you remain a user on our Apps to provide safe and effective services. We will only delete your data upon request or when you stop using our services.
     
     1.3. Users are responsible for maintaining the confidentiality of their account details.
     
@@ -70,14 +71,23 @@ The Raeven Deliveryman App ("we" or "us" or "our") Privacy Policy provides infor
 **COOKIES AND TRACKING TECHNOLOGIES**
 
 1. **Usage of Cookies**
-    1.1. We use cookies to enhance our user experience and track the usage of our app and website.
+    1.1. We use cookies to enhance our user experience and track the usage of our apps and website.
     
     1.2. We use cookies to track users’ behavior for improvement, analytics, and advertising purposes.
     
     1.3. Users can manage cookie preferences through their device settings.
 
+**LOCATION DATA**
+
+1. **Usage of Location Data**
+    1.1. We collect and use location data to provide delivery services, optimize delivery routes, and ensure accurate delivery addresses.
+    
+    1.2. Location data is collected through GPS, IP address, and other location-based technologies.
+
+    1.3. Users can manage location preferences through their device settings. However, disabling location services may affect the functionality of our delivery services.
+
 **CONTACT INFORMATION**
 
 If you have any concerns about our Privacy Policy, please contact us at admin@raevenmarket.com.ng.
 
-By using the Raeven Deliveryman app, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy. This policy may be updated periodically, and users are advised to review it regularly for any changes.
+By using the Raeven Marketplace and Raeven Deliveryman apps, you acknowledge that you have read, understood, and agree to the terms of this Privacy Policy. This policy may be updated periodically, and users are advised to review it regularly for any changes.
